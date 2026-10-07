@@ -1,0 +1,6 @@
+{
+  "name": "Mr.Dharvex - Android Games & MOD APKs Catalog",
+  "description": "Download free Android games, modded APKs with unlimited money, offline games, and apps on Mr.Dharvex.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
